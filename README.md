@@ -9,7 +9,7 @@ Categorise the countries using some socio-economic and health factors that deter
 Model Objective:
 Cluster the countries by the factors mentioned and recommend to the CEO.
 
-The tasks performed in the model presented below are:
+The tasks performed in the model presented are:
 1. Necessary data inspection and EDA tasks suitable for this dataset.
 2. Outlier Analysis
 3. Tried both K-means and Hierarchical clustering(both single and complete linkage) on this dataset to create the clusters.
